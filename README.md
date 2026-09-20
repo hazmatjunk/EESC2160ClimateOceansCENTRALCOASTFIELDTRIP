@@ -1,5 +1,7 @@
 # EESC2160ClimateOceansCENTRALCOASTFIELDTRIP
 Photos and documents of the central coast field trip
+If you want an interactive map with tagged images go here:
+https://hazmatjunk.github.io/EESC2160ClimateOceansCENTRALCOASTFIELDTRIP/
 
 If there are any problems, or if i have misidentified a plant please let me know. Either log an Issue or send me an email.
 
